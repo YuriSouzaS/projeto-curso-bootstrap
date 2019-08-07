@@ -1,0 +1,17 @@
+body {
+    font-family: 20px fantasy;
+}
+.navbar {
+    background-color: #5E6108;
+}
+.quem-somos {
+    background-color: aqua;
+    color: aliceblue;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px
+}
+.parceiros{
+    background-color: aquamarine;
+}
