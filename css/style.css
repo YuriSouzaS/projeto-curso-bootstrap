@@ -2,32 +2,30 @@
   box-sizing: border-box;
 }
 body {
+    /* background-color: #ecf0f1; */
     font-family: 20px fantasy;
 }
 .navbar {
-    /* background-color: rgba(33, 75, 124, 1); */
-    font-size: 20px;
+
 }
 .quem-somos {
   background-image: url("file:///var/www/html/img/praia1.jpg");
   background-repeat: no-repeat;
-    /* background-color: aqua; */
-    color: black;
+  color: black;
 }
 .margin{
-    padding-bottom: 50px;
-    padding-top: 10px
+    padding-bottom: 25px;
+    padding-top: 10px;
 }
 .parceiros{
-    background-color: aquamarine;
+    background-color: #ecf0f1;
     color: black;
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .parceiros img {
   margin-bottom: 30px;
-}
-.bg-footer{
-    background-color: black;
-    color: aliceblue;
 }
 .card-text {
   font-size: 12px;
@@ -38,4 +36,40 @@ body {
 .card-img {
   margin: 10px;
   margin-top: 20px;
+}
+.conheca {
+  width: 95%;
+  margin-top: 10px;
+  background-color: #ecf0f1;
+}
+.conheca h6 {
+  margin-bottom: 28px;
+}
+.conheca-2 {
+  width: 95%;
+  margin-bottom: 10px;
+  background-color: #ecf0f1;
+}
+.passagem {
+  width: 95%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 35px;
+  padding: 20px;
+  background-color: #ecf0f1;
+}
+.passagem h6, h3 {
+  text-align: center;
+}
+.passagem img {
+  width: 98%;
+  height: 230px;
+}
+.bg-footer{
+    background-color:#2980b9;
+    color: #ecf0f1;
+    height: 40px;
+    width: 95%;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
 }
